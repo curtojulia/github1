@@ -1,1 +1,4 @@
 outra mensagem 
+junção de fC e main
+mensagem do branch fC
+>>>>>>> fC
